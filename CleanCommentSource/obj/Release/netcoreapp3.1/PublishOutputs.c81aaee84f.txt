@@ -1,0 +1,5 @@
+D:\Linh Tinh củ chuối\CleanCommentSource\CleanCommentSource\bin\Release\netcoreapp3.1\publish\CleanCommentSource.exe
+D:\Linh Tinh củ chuối\CleanCommentSource\CleanCommentSource\bin\Release\netcoreapp3.1\publish\CleanCommentSource.dll
+D:\Linh Tinh củ chuối\CleanCommentSource\CleanCommentSource\bin\Release\netcoreapp3.1\publish\CleanCommentSource.deps.json
+D:\Linh Tinh củ chuối\CleanCommentSource\CleanCommentSource\bin\Release\netcoreapp3.1\publish\CleanCommentSource.runtimeconfig.json
+D:\Linh Tinh củ chuối\CleanCommentSource\CleanCommentSource\bin\Release\netcoreapp3.1\publish\CleanCommentSource.pdb

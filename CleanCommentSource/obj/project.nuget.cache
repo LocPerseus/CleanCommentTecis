@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICnVhJcB5PF6f+p7NhiTH8Z7f9IGDrZA3KODrtAdBbGit8as6VyhOKzkRkjv4Z4/4blsRAB4UQYloIruyHB8PQ==",
+  "success": true,
+  "projectFilePath": "D:\\Linh Tinh củ chuối\\CleanCommentSource\\CleanCommentSource\\CleanCommentSource.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
